@@ -30,7 +30,7 @@
     "funnel-graph-js": "^1.4.1",
     "kea": "^1.0.1",
     "kea-listeners": "^0.2.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "react": ">= 16.8",
     "react-beautiful-dnd": "^12.2.0",
